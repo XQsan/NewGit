@@ -1,0 +1,2 @@
+# NewGit
+Work for fun
